@@ -1,0 +1,42 @@
+Silindokuhle Mapiyeye
+
+28th January to the  31st of January
+------------------------------------
+On Tuesday, it was my first day attending. Arrived and i was appointed to join a group for a project which was COA, where by i had to catch up with every ideas
+and documentation they did as a group. i started gathering information on how to code well using node.js since i'm one of the back-end developers for my team.
+The information i got on youtube helped me to code the back-end part for the admin.Mr Nyambeni was there to guard us through the process of developing and errors
+which occur during the process of developing. We were combined with our BA's, they wanted to know how far are with developing the system and we had few changes 
+on th discussion we had.
+
+On the following day i started realising how important is the use of 'GIT' i started using commands and help from my team. I was already registered on git, i 
+started cloning and creating branch name and we had an advice from our Mr Nyambeni on not to work as a master on git. after cloning the project i started coding my admin 
+section , i was still using help on how to complete my section of coding and before the day ended we all have to push our work to git and commit it, so it an later
+on cloned and edited. We all started our registration and unblocking for IDC30BT
+
+On Thursday, we carried from were we left and we had a scrum master to check how far each and everyone from the developers side is, we managed to understand the use of 
+scrum and its importance. and we were told that on Friday we presenting, stress started and we had to push hard on getting the system together and linking pages to 
+navigate, we push hard on the day on developing the system so that we can be ready to present the work we had. i kept coding my admin back-end and i finished same day.
+and waited for front-end developers from my team to finish up with their coding and pushed everything to git.
+
+Friday it was our presentation day, we there on cloned our project from git and we were given some time before the presentation starts, we used the time to finalize
+everything concerning our project ,fixing errors and getting ready for the presentations,as time goes by we found out that we going to present on monday ,we carried on 
+fixing our front-end to look more smarter.
+
+
+
+3rd February to the 7th of February
+------------------------------------
+
+On Monday, we started to proceed were we left with our project. and around 11:45 presentations started and only 2 groups started
+
+The following day, we added few components , and i carried on to gather information about back-end coding since im interested in
+back-end, i went more deeper on how to use CRUD  on node.js, how to create database coonections, and severs and making sure that i know 
+all packages which needs to be installed using node.js
+
+On Wednesday, developers were combined with all BA's and were positioned and separated into for group were i appointed to on a GIFTBOX system.
+
+On Thursday we were on a workshop and we had information on how to use scrum with few advices
+
+on friday we started gathering information based on our giftbox system and due to electricity we had a half day.
+
+   
