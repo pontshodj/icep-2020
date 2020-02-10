@@ -1,0 +1,33 @@
+log book
+20 January 
+We attended our first day of ICEP as part of our induction, we were introduced to the leaders of ICEP and also what ICEP is all about, we also played a game as part of team building conducted by Mr. Moses. Then signed to show that we attended the occasion.
+21 January
+We had more team building games, we also learnt about scrum and its advantages in the workplace. We also got a guest speaker who enlightened us regarding front end development and what all the criteria we must focus on as part of front end developing. He also shared with us a few websites which we will find useful for the designing part.
+22 January
+We were introduced to the Mean stack which we will be using in the internship. this included node js, angular, and we got  two speakers named nona and Mr Mash, we got introduced to the importance of design and colors in every application we make. Mr Mash also spoke to us about how we as I.T professionals need to thrive on solving problems in our community through technology
+23 January 
+We were signing forms, and creating accounts for trello and slack which was introduced by kabelo. We also spoke of their uses in the project management and for tracking individual tasks as part of the projects we will be working on. 
+24 January
+We had a day off.
+27 January
+We were grouped together with some business analysts and developers and had to come up with an idea of the type of system we want to implement and we presented it and it got approved.
+28 January
+We were learning more about angular, and i was designing my first angular admin dashboard for my team as part of the front end.
+29 January
+We held a scrum session just to see our progress as a whole and I was doing the designing and coding of some of the components needed for the admin dashboard with some routing.
+30 January
+We were doing the routing for the pages and merging them together in order to have a complete working front-end application, the back-end developers were also doing the same for the entire back-end, we also used postman to test the integrated environments and check for any bugs. My admin dashboard was functional but I had pushed it into the wrong github repository.
+31 January 
+We combined the front and back-end in order to have a fully functional application, we also further tested the integrated application  for bugs and fixed whatever bugs we had in order to prepare for the presentation that would start the following week. My admin dashboard was not working today after I had tried to reuse the code into the correct repository.
+3 February
+We had our first presentation were we presented to our fellow leaders and colleages.
+4 February 
+We had a second presentation from other groups which showed that all the groups were determined to work. we were also sharing suggestions and asking the questions regarding their system
+5 February
+We got placed into a new group for another application known as kasi food hub, we got introduced to each other and also did a research about the system we were supposed to design.
+6 February
+we were further brushing up our skills on front end development concepts
+7 February
+We were doing a reserach about ionic and how we can use it to better our lives and make the process of app creation shorter and more productive.
+10 February
+we are working on the frontend side of things regarding our system.
