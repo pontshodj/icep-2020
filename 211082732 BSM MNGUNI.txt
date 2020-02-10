@@ -1,0 +1,98 @@
+
+
+20 January 2020
+DAY1 induction.
+
+- One of representive showed former chair person of Icep from Accenture gave us some knowledge based on project management , project and project coordinator.
+- CEO of ICEP came to give more info about whta is ICEP and what does ICEP do in the community casue its a community engagement.
+- We Played some activities which were directed by Moses.
+
+21 January 2020
+DAY2 induction.
+
+- Boipelo founder of NONA Multlimedia came to give us a little brief on FRONT END/UX.
+* He covered five questions on his presentation which are : What to design?
+                                                            How to design?
+                                                            When to design?
+                                                            Why do you design?
+                                                            Who are you designing for?
+
+- Kabelo introduced the MEAN STACK will be utilizing (SQL, Node js, Angular) and communication tool is (Slack) we have : Trello. 
+                                                                                                                         github.
+                                                                                                                         postmen = for testing sign up/ your code is working.
+                                                                                                                         VsCode.
+-  Calvin (Scrum Master)  gave us a presentation in AGILE and Scrum at the sametime, what is scrum and how does scrum works.
+
+22 January 2020
+DAY3 induction.
+
+- Mentor (Mpho Nyambeni) notified us on how are we going to use the language in frond end and back end. 
+- Nathi (successful Coordinator) from department of education  gave us  a little motivation on how to sell our self and being confident on ourselves. he came for motive.-
+- Ayanda showed me a viewpoint on dealing with challenges from industry.
+* Deal with my mind: add a value and success will follow you.
+                     "you cannot start without commintment".
+                     "you can't finish without consistency"
+
+23 January 2020
+DAY4 induction.
+
+- We covered Registration on this this almost the entire day.
+
+
+27 January 2020
+DAY5 Office.
+
+- I covered Github i managed to pull on file from git and update it all after push it to the master utilizing my branch.
+- I met with my collegues and we brainstormed two systems EMS and bookshop system, we agreed on Ems and allocated task to each other Developers and Business Analysts.
+
+28 January 2020
+DAY6 Office.
+
+- I was tasked to do database and connect it to our admin. i did some research on how to compile database. then assisted on of my partner about connecting to the server using node js. it was a long day
+  for me cause i stacked almost the entire day not knowing what to do.
+
+29 January 2020
+DAY7 Office.
+
+-  I managed to generate and connect our database to our system tested query with postmen also included on the table. i dealt with registration the till the late. we also met our scrum master for updates of how far are we with our tasks.
+
+
+30 January 2020
+DAY8 Office.
+
+- Concluded with my back end for our system and connected with the database  retrived some data. i knocked off late nearby past seven wanting to conclude my code after 
+  all i pushed my code to git.
+
+31 January 2020
+DAY8 Office.
+
+- i did have alot to do because was finished with my task tried to render html pages on the backend. we had a load shedding in the  morning, when electricity came bck we marged our backend.
+
+03 Febuary 2020
+DAY9 Office.
+
+- Mentor gaves us little clue on JWT and how to use it in our system its purpose its to protect the system.
+- we had presentation and we were selected as a first group to start. Our presentation went well .
+
+
+04 Febuary 2020
+DAY9 Office.
+
+- Resumed with presentations till we knock off.
+
+05 Febuary 2020
+DAY9 Office.
+
+- they grouped us in top our ultimate groups.
+
+
+
+“Add to Cart” – Means a call for actions to help in increasing the average items per order. Thus improving the share of wallet per order
+“Add to Wishlist” – Reduces the shopping cart abandonment and improves overall funnel. Also creates an opportunity to know the users’ interest and strike a conversation.
+
+Adding to wishlist doesn't affect the quantity of the product added, but adding in cart does.
+
+Add to wishlist is more like day-dreaming about the product that you'd wish to buy.                                                                                                                         
+
+
+
