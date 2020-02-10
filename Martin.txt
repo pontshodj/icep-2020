@@ -1,0 +1,85 @@
+week 1
+20 January - (Monday)
+The induction took place and I was introduced to topics we were going to project managemen.
+
+
+21 January - (Tuesday)
+Mr Nona introduced multimedia design as the induction was continuing.
+
+
+22 January - (Wednesday)
+
+i participated into team building programs with my collegues.
+
+23 January - (Thursday)
+
+I filled the employment forms and countinued with the introduction to Slack and Trello.
+
+
+24 January - (Friday)
+Day off
+
+week 2
+
+27 January - (Monday)
+
+Introduction to GIT/GitHub
+
+clone and created a branch
+
+We were grouped and we come up with ideas for a system.
+
+we came up with different ideas but the system that was chosen is COA
+a central online application that will help learners see thier APS score and apply to qualifation they qualify for
+
+
+
+28 January - (Tuesday)
+
+I was assigned a task to create a registration page from the backend.
+
+29 January - (Wednesday)
+I started my research on node js and started wacthing tutorials.
+
+30 January - (Thursday)
+
+I registered for IDC30BT
+
+31 January - (Friday)
+
+coding and trying to connect the system
+
+week 3
+
+03 February - (Monday)
+
+first evaluation of the system at 14:00
+another evaluation for of the system at 14:00 for the second groupds
+started new language ionic
+
+04 February - (Tuesday)
+
+we were grouped in new groups  for new projects
+our group is doing RMS .
+we divided tasks to front-end and back-end
+
+05 February - (Wednesday)
+We presentated a group system which we started on 27 January 2020. 
+
+06 February - (Thursday)
+Attended Scrum session from 8am to 4 pm
+
+
+07 February - (Friday) 
+
+practising to do the back-end of the Admin page
+research on the RMS
+
+10 February - (Monday)
+
+starting to code my back-end Admin page
+pushing the report on Github
+
+
+
+
