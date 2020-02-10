@@ -1,0 +1,62 @@
+20 January 2020
+-Introduction to ICEP and what is about.
+-we were given a presentation by the ICEP boss Mr. Mash who gave a brief overview of ICEP
+ and what is expected to us when coming to behaviours and how we should conduct ourselves
+
+21 january 2020
+A presentation of Front-end designing was given to us by Mr.Boipelo a graphic and a front-end designer
+from the company NONA.
+-he gave us tips on choosing colour based on what application you are designing and what are your audience
+
+22 january 2020
+Mr. Nayambeni gave a presentation about angularjs and also about Nodejs.He then eplained the difference
+ between the to andwhich one to use for  backend and for frontend
+
+
+23 january 2020
+We were filling forms to submit in order to register for Industrial exposure
+
+27 janaury 2020
+-We got pairedinto group andassigned projects. we also given a chance to know git and the commands needed mostly in order for us 
+to start with our project
+
+28 january 2020
+I started with the installation and setuos of my machine(installing angularjs, bootstrap).
+for refference i consulted google, w3school and also the documentation of Angular on the angular website.
+
+29 january 2020
+Our head Scrum master Mr. Calvin conducted a group meeting to assign task to each member of the group.
+I started working on my task allocated .
+
+30 january 2020
+Continued with my project task.
+Started creating forms and choosing nice pictures on google.
+
+31 january 2020
+started with the following:
+-validing 
+-research on how to connect backend and front end.
+
+03 february 2020
+-presentation day
+-research on jws
+
+04 february 2020
+-presentation day
+
+05 february 2020
+-Scrums session
+-we were assigned to our new groups.
+-we got our new
+-group leaders and project managers were selected
+-we started with the planings on how to tackle the project given to us.
+
+06 february 2020
+- started with research on Ionic
+- started with my simple application for practice purpose.
+
+07 february 2020
+-Setting up my machine (installing Ionic,Xamarin)
+-Solving certain error which i got when installing Ionic
+-Started with ojur project
+
