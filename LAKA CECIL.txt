@@ -1,0 +1,73 @@
+Name:Cecil
+Surname:Laka
+Student Number:216166329
+                     
+                                            LOG BOOK
+
+  21 January 2020
+  *They were introducing  the softwares that we were going to use ,such as:
+  -Trello, 
+  -Postman,
+  -IntelliJ
+  -Vs Code
+
+  22 January 2020
+  *introduction Theory of Angualar such as: 
+  -its global functions,Two way Data-Binding,Model View
+  
+   23 January 2020
+   *I researched about Scrum and its roles such as:
+   -scrum owner,development team and scrum master
+
+   *I learnt about trllo interface such as:
+    -creating Boards,list and adding members
+
+
+   24 January 2020
+
+    *we did not attend
+   
+    27 January 2020
+    *first thing in the morning i installed GIT on my local machine.
+    *I created a GIT account
+    *I used GIT to clone a file from gitHub and use git commands to push back the file on gitHub
+    * After lunch i was grouped with other programmers and Business Analyst to come up with system ideas.
+ 
+     28 January 2020
+     *I installed node js and Angular js
+     *I researched about Angular js
+     
+     29 January 2020
+     *I had scrum meeting with my team and mentor to discuss the progress of our work
+     *I recieved a template of how registring page should look like on Trello from Business Abnalyst.
+     *I started to create a registering page using Angular js ,Html and CSS
+     
+      30 January 2020
+    
+      *I implemented a methods to validate data from the user input.such as checking for valid email Address,
+       checking for valid south african contact number and to make sure that ID number contains 13 digits.
+
+      31 January 2020
+      *I implemented user page on our COA system using Angular ,bootsrap,html and css
+        
+
+      03 Feb 2020
+      
+     *I merged all Angular components and made all buttons on our systen functional using routing in angular
+      
+      04 Feb 2020
+   
+      *We presented our system with my team.
+      *I made notes of suggestions presented by other programmers and Analyst.
+      
+      05 Feb 2020
+      *We went to building 10 to be  regrouped and given system ideas to implement
+      
+      06 Feb 2020
+      *We attended scrum at building 10
+     
+      07 Feb 2020
+      *I installed IONIC on my machine
+      *I started to research about IONIC
+    
+     
