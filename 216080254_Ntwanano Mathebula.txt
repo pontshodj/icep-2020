@@ -1,0 +1,97 @@
+
+Tuesday, 21 January 2020
+=========================
+i created my trello acount.
+
+Wednesday, 22 January 2020
+=========================
+They intoduced us to scrum, agile and languages
+we were going to use to build our systems this year.
+
+Thursday, 23 January 2020
+=========================
+this is the day we signed forms.
+
+Friday, 24 January 2020
+=========================
+day off.
+
+Monday, 27 January 2020
+=========================
+I started by cloning the file that was sent to us on git,
+i created a branch from master to my branch name,
+then i added it to git and pushed it back to git, after accepting the invitation.
+we formed a team, then came up with ideas for the our system, 
+they also gave us the deadline of the system to be created which was friday.
+Did a reseach for the system to be built.
+
+Tuesday, 28 January 2020
+=========================
+This is the day we did a to.do list and split ourselves into a group of front-end and back-end.
+we grouped ourselves according to the task we was going to do for our system.
+we worked according to the duties given.
+i then checked online on how to do a code for an admin as it was my task,
+and then i started to work on it.
+
+Wednesday, 29 January 2020
+=========================
+On this day i continued with the project that i was doing yesterday.
+Met with our BAs to discuss what we were doing and what we want to do afterwards.
+getting busy with the back-end of an admin.
+
+Thursday, 30 January 2020
+=========================
+started up with meeting with our team to discuss the ERD and we 
+removed and added some entities into the database.
+coding the back-end and added what was needed to be added and 
+tested the code on postman to see if it was working. i checked if the 
+front-end are done with their code,i found out that 
+they was still coding and the we waited for them as a team to finish, 
+then we linked the API with the front-end.
+
+Friday 31, January 2020
+=========================
+This is the day where we started with our connection but it failed,
+but the API was working properly when tested.
+Met with our BA's to show them what was working and what was not, 
+then checked whether the activity diagram correspond with the system.
+Continued working on back-end.
+
+Monday, 03 February 2020
+=========================
+Continued with the connection.Prepared for the presentation and put everything in order.
+We presented our system and then answered question asked.
+
+Tuesday, 04 February 2020
+=========================
+They told us to familiarise ourselves with Ionic mobile development.
+I researched about it ,and also downloaded some Ionic tutorials.
+while others continued presenting their systems.
+
+Wednesday, 05 February 2020
+=========================
+created a new group and also got a new project.Discussed with our team about 
+the given project also reseached about it
+
+Thursday, 06 February 2020
+=========================
+Researched on the new idea again and how are we going to do the system.
+Started with assigning task to every member our team.
+
+Friday, 07 February 2020
+========================
+Continued with research and looking up the related codes and 
+tutorials on the iternet.
+
+Monday, 10 February 2020
+=========================
+The day we were told to push our reports on git. 
+
+
+
+
+
+  
+
+
+
