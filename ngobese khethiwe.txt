@@ -1,0 +1,70 @@
+Name:Khethiwe
+Surname:ngobese
+Student Number:215520960
+                     
+                             
+
+  21 January 2020
+   *Mr purutsi introduced the ICEP and had a guest speaker for project management.
+  *They were introducing the softwares that we going to use for coding, communicating and sending or uploading the system ,such as:
+  -Trello, 
+  -Postman,
+  -IntelliJ
+  -Vs Code
+
+  22 January 2020
+  *We had another guest speaker for graphics design from the campany called NANO.And we went outside for games.
+  
+   23 January 2020
+   *I did a research about Scrum and its roles.
+   *I learnt how to creating Boards,list and adding members using trello.
+   
+
+
+   24 January 2020
+
+    *we did not come for induction
+   
+    27 January 2020
+    *I learnt how to used GIT to clone a file from gitHub using git commands and to push back the file on gitHub using git commands.
+    on the second seasion, we were grouped with business analysis to come up with the system ideas.
+
+     28 January 2020
+     *I installed node js and Angular js
+     *I did a research about Angular js
+     
+     29 January 2020
+     *I attended a scrum meeting with my team and mentor to discuss how far are we with the system.
+     *we discusses how the admin page should look like.
+     
+     
+      30 January 2020
+    
+      *The view button was not working. i had to ask for help to my team members who are doing the frontend to help me.
+	we didn't manage to do it.
+
+      31 January 2020
+      *i continue with the admin page creating update and delete button, that delete and update the information in the database.
+        
+
+      03 Feb 2020
+      
+     *I tried to connect the frontend with the backend using the API.
+      
+      04 Feb 2020
+   
+      *We presented our system with my team.
+      *I took notes of the suggestions that were raised during the presentation.
+      
+      05 Feb 2020
+      *We grouped again into 4 groups, each group has developers and business analysis. they gave us the system that we going to work on 
+	that we going to present at the end of the semester.
+      
+      06 Feb 2020
+      *other groups went for scrum master in building 10. And i left with my team continue with our system.
+     
+      07 Feb 2020
+      *I installed IONIC on my machine
+      *I downloaded the tutorials for IONIC
+    
+     
