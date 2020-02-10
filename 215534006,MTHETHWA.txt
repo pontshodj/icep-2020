@@ -1,0 +1,58 @@
+215534006
+MTHETHWA SANELE
+
+20 JANUARY, monday
+on this date,an induction program took place and i was inducted to topics as thus:
+the project management
+project coordinator
+waterfall methodology
+scrum
+and agile
+
+21 JANUARY ,tuesday
+tuesday 21st,induction program progressed and a new subject of multimedia design was introduced
+by Mr Nona.
+
+22 JANUARY, wednesday
+on this date,i participated in a team building programs with my colleges.
+
+23 JANUARY,thursday
+i filled the admission form and i equally signed the employment letters ,subsequently 
+i instructed to create an account on trewllo.
+
+24 JANUARY , friday
+on friday a day off i was given a day off with my team.
+
+27 JANUARY,monday
+on this day,mr nyambeni introduced git and nodejs and angular.
+i was given an instruction to created a repository on the gitgub account tht i created, to which  i will push my
+work.we further convened we my team,we brain stormed and agreed on the idea that was subjected to a proposal.
+
+28 JANUARY,tuesday
+on this date,we did the division of labour and i was assigned to be a backend coder.
+ 
+29 JANUARY,wednesday
+i started coding the backend for the login page.
+30 JANUARY
+the backend coding was in persistancy and i had to familiarise my mind with the functions
+the  of  database.
+
+31 JANUARY,thursday
+on this day , coding of the backend login page was still in progress.
+
+03 FEBRUARY, monday
+monday,it was the first day of evaluation. 
+
+05 FEBRUARY, tuesday.
+on this day, i made a presentation of our system and i was selected to represent the developers .
+
+06 FEBRUARY , wednesday 
+
+on this date , i reconved with business analyst at building 10 to formulate and create new teams 
+not only that but to do the planning for the newly proposed system.
+
+07 FEBRUARY ,thurday
+after the newly proposed system , a research was conducted that is based on the proposed system.
+
+08 FEBRUARY , friday
+i persisted with the conduct of the research.
