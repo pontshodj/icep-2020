@@ -87,7 +87,12 @@ DAY9 Office.
 
 
 
-                                                                                                                         
+“Add to Cart” – Means a call for actions to help in increasing the average items per order. Thus improving the share of wallet per order
+“Add to Wishlist” – Reduces the shopping cart abandonment and improves overall funnel. Also creates an opportunity to know the users’ interest and strike a conversation.
+
+Adding to wishlist doesn't affect the quantity of the product added, but adding in cart does.
+
+Add to wishlist is more like day-dreaming about the product that you'd wish to buy.                                                                                                                         
 
 
 
