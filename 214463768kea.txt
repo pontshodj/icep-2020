@@ -1,0 +1,63 @@
+LOG BOOK
+
+
+////////January
+
+20 january 2020
+
+Attended ICEP ,they took us to building 10-g44 and we were introduce and briefed about ICEP .we played a few game to relax our mind an shake off the tiredness.we signed In  in the morning and Out in the afternoon.
+
+21 january 2020
+
+The main objective on this day was SCRUM ,we learned all about scrum and AGILE ,we played games to help us cope as a team ,games that makes a team work a dream work.
+
+22 january 2020
+
+i did research about NODEjs and ANGULARjs ,and we had mentors to talk to us.
+
+23 january 2020
+
+we created Trello and Sloack accounts then we signed forms.
+
+24 january 2020
+
+we didn't come.
+
+27 january 2020
+
+They grouped us and told us to come up with an idea that we could work on.We came up with the idea ,presented it and they told us to start working on the solution, which was our first project 
+
+28 january 2020
+
+i was assigned a task to create  a registration page for our project.
+
+29 january 2020
+
+I started learning Angular ,since i was assigned a front-end task.
+
+30 january 2020
+
+i started creating a registration page bt didnt finish it.
+
+31 january 2020
+
+i did the styling of the registration page
+
+//////////February
+
+3 February 2020
+
+i helped my colleage with his login page and we connected the pages together , the login page and registration page.
+
+4 ,5 February 2020
+
+we were grouped to create a new project which is RMS on the 4th,and on the 5th i started learning IONIC 
+because i am going to be doing the front-end of the Mobile Application.
+
+6 February 2020
+
+we went to a SCRUM workshop were we learned about scrum and how to work in teams ,played a few games  
+
+7 February 2020
+
+continued with IONIC RESEARCH 
