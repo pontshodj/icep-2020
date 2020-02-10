@@ -1,0 +1,82 @@
+214788780 KOKETSO MODISE'S REPORT
+
+20/01/20
+
+-Concepts of project management,project co-ordination,agile and scrum were explained
+-Mash introduced icep
+
+21/01/20
+
+-Introduced to Nona a front-end designer,who explained the concept of design
+-Told us to think of colors which associate with the concept(copyright)
+
+22/01/20 
+
+-Nyambeni introduced us to Angular and Node.js where he showed us the features and modules of the applications
+
+23/01/20
+
+-signing of WIL  form and indemnity form
+-Created trello account
+
+24/01/20
+-Day off
+
+27/01/20
+
+-Cloned icep-2020
+-created a branch
+-pushed back to git
+-brainstormed project ideas
+
+28/01/20
+
+-assigned task of creating Back-end register for Online fruit and veg
+-Researched on how to use Nodejs MySQL
+
+29/01/20
+
+-Research on angular
+-Linking angular to vscode
+
+30/01/20
+
+-Met with the scrum master Calvin 
+-Added a list on what should be done on trello
+-Learned to connect to the front-end
+
+31/01/20
+
+-helping out a with validation
+-Added update and get APIs
+-Checked the ERD with the BAs
+
+03/02/20
+
+-Research on JWT and creating a service
+-presented system
+
+04/02/20
+
+-Research on adding a cart 
+-researched on IONIC Mobile Development
+
+05/02/20
+
+-Got introduced to my new team for the ICEP Website
+-Researched similar Websites
+
+06/02/20
+
+-Starded with the register API
+-Researched on new ideas 
+
+07/02/20
+
+-Researched on how to validate login using backend
+-Checked if all APIs are working perfectly
+
+10/02/20
+
+-Nyambeni requested a report of our work
+-Attended a SCRUM session where we were taught more on the concept by Kabelo and Matshidiso
