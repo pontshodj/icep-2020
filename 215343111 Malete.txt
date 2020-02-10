@@ -1,0 +1,61 @@
+LOG_BOOK
+
+
+
+
+On the 20th of January
+We attended our first induction of ICEP.We were introduced to our
+leaders and they gave us an overview of what ICEP is all about, also had a chance to play
+exercise games.
+
+On the 21st of January
+We were introduced to CRUM and how it helps in the workplace.
+
+On the 22 January
+They introduced to us MEAN stack.We had two speakers, Mr mesh head of ICEP and founder of 
+NONA multimedia who highlighted the importance of design and colors in every application
+to be built.
+
+23rd of January
+We came in only to sign forms, and create accounts for slack, trello, etc.
+
+On the 24th of January we had a day off.
+
+27th of January
+We were divided into groups of Developers and Business Analysts, and brainstorm on the
+idea of our desired system which was approved.
+  
+28th of January
+I did more research about nodejs and express, and i  assigned to do backend for admin
+
+29 January
+I continued researching, compiling information from different sources as it was difficult
+to implement backend for admin
+
+30 January
+We were doing the routing for the pages and merging them together in order to have a complete
+working front-end application, back-end developers were also doing the same for the 
+entire back-end we also used postman to test the integrated environments and check for 
+any bugs.
+
+31 January 
+We combined the front and back-end in order to have a fully functional application, 
+we also further tested the integrated application  for bugs 
+
+3 February
+We had our first presentation were we presented to our fellow leaders and colleages.
+
+4 February 
+We had a second presentation from other groups which showed that everyone is in the right place.
+
+5 February
+I got placed into a new group for another application known as Kasi Food_Hub,
+we got introduced to each other as team members and also went to  do more research on the system
+we are supposed to design.
+6 February
+Two first teams had a scrum session and got to know scrum in full.
+ 
+7 February
+We were doing a reserach about ionic and how we can use it to better our lives and make the
+process of app creation more productive.
+
