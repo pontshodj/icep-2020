@@ -1,0 +1,55 @@
+MY REPORT
+
+20 JANUARY 2020
+?	Start of induction
+?	We were introduced to the team leaders 
+?	We talked about the agile methadologies
+?	We talked about project management,the defination,how does project management work
+?	We created Trello accounts and we were taught how to use it 
+?	We played games
+21 JANUARY 2020
+?	One of the leader taught us about Scrum ,the process of scrum and how it works in line with project management
+?	We were told to learn more about git and familiarise our selves with angular and node js programming language
+?	We played games
+22 JANUARY 2020 
+?	We talked about angular and node js how it works
+?	We were told angular is for the front end  and node js is for backend
+23 JANUARY 2020
+?	They gave us forms to fill
+27 JANUARY 2020
+?	We learnt how to push to git
+?	They told us we have 5 days to complete the project ,we must decide on which project we must do together with our BA's
+?	We met with our BA'S and proposed our ideas.
+?	We chose to do the Lost and Found system
+?	We brainstormed ideas on how our system will look like and what it should have or not have
+?	We assigned tasks on who will be doing what
+28 JANUARY 2020
+?	We did the planning of the system
+?	I researche more on the tasks i was assigned to do 
+?	I started with the coding ,whereby i was coding the lost ,found and update page
+29 JANUARY 2020
+?	Continued with the coding 
+?	completed the first page of the task i was assigned which is the lost page
+?	The scrum master came and we talked about how far are we with our project based on the tasks we were given
+30 JANUARY 2020
+?	Continued with the coding of the remaining page
+?	completed the remaining pages
+31 JANUARY 2020
+?	Styling of the pages 
+?	struggling to connect the backend and front end
+?	We were suppose to present our systems but we didnt because of the load shadding
+03 february 2020
+?	Presentation day
+04 february 2020
+?	Presentation day
+05 february 2020
+?	We met with our BA's 
+?	We were grouped for projects
+?	We were assigned to do the gift box project
+?	We discussed our project together with our BA's
+06 February 2020
+?	We were told to go to building 10 were we met with the team from agile 42
+?	We learnt about agile definations
+?	We learnt about scrum flows,the role of scrum master and how scrum is important in creating new product
+07 February 2020
+?	researched more about our project
