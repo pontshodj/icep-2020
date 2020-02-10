@@ -1,0 +1,18 @@
+213670654 
+Moora Solomon Masetla
+=====================================================================
+Weekly Work Report	ICEP System Report	10.02.2020
+=====================================================================
+
+The following recaps the various ICEP Project area and accomplishments.
+Specific performance indicators that are identified and tracted seperately
+are located at the separete topics found on the Doc.
+
+--------------------------------------------------------------------
+
+-Started working with ICEP System team today.
+-Started by cloning the Git invited by Mr Nyambeni.
+-The clonned git repository was to upload the report on the system that the team ways currently working.
+-The team has completed a number of topic on the project that a due.
+-I Mr Masetla was assigned the role of frontend developer for the system.
+-The objective of today is to build the landing page for the system.
