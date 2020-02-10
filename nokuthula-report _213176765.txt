@@ -1,0 +1,69 @@
+
+
+20 january 2020 -24 january
+we started with induction
+i was  introduced to  programming langauges we were going to use 
+-angular
+-node js
+-mongodb
+-mongoose
+-visual code
+our leader also told us ways to communicate with our BAs and Developers by using 
+-slag
+-trello
+-postman for testing back end code
+and lso to save our work on github
+angular-frontend
+node js -backend
+-we also played games as ice breaker
+-They gave us clear understandin of scrum and also a motivation speaker who told us about different was of presenting system
+and lso the use of Adobe xd and other softwares.
+
+27 january 2020
+
+first meet with our BAs discussing what system will be creating
+- we endup choose the lost found system.
+
+28 january 2020
+i was teaching myself node js.
+-using google and also utube.
+
+29 january 2020
+we start coding and my task was registration page from backend.
+
+30 january 2020
+i was done with the registration page.i also help my teammate with the login page.
+we recieved erd from the bAs and since i was the backend i also connected the database to node js
+- i also mange to create the token.
+
+31 january 2020
+i was testing my code using postman and fixing all the errors.
+
+3 february 2020
+
+- it was a presentation day .
+but we didnt present because of the loadshading.
+
+4 february 2020
+it was a presentation day.
+
+
+5 february 2020
+
+our leaders were grouping us into 4 groups and also allocating systems
+and our system is GIFT BOX the system that advertise gift box.
+
+6 february 2020
+
+we went for scrum where we were taught diffrent between agile and scrum
+and also  the important of teamwork.
+
+
+7 february 2020
+
+researching about about system gift box.
+
+
+
+
+
