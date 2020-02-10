@@ -1,0 +1,144 @@
+ICEP DAILY REPORT
+
+NYANGULE O
+
+
+20/01/2020 MONDAY
+
+
+ Guest speaker did an introduction to the concepts of project management was introduce, srcum, and agile explained
+ Mr mash introduced ICEP
+
+21/01/2020 TUESDAY
+
+introduction to front-end designing by nona
+- fixing a problem for users
+-how to design? after getting briefs from the BAs
+-why to design?
+-who to design for?
+-what to design?
+
+Mr Kabelo did an introduction on MEAN STACK
+make sure to have slack for communucatiobn 
+trello = backlog {assign task to people}
+version control =GIT
+
+
+Mr Calvin
+
+Introduction to scrum
+
+scrum = framework within Agile that helps team work together
+
+product backlog tasks.
+sprints
+values of scrum
+
+
+22/01/2020 WEDNESDAY
+
+Introducing ourselves and what we bring to ICEP
+chose presenting people to represnt us
+
+Mr Nyambeni  did an introduction to Angularjs
+what is angular?
+why angular?
+back-end nodejs
+connection using API
+
+MR Nathi
+
+motivated us to be professional
+
+must work as a rteam
+
+
+23/01/2020 THURSDAY
+
+we created trello and slack accounts
+we signed forms
+
+24/01/2020 FRIDAY
+
+we didnt come to work
+
+27/01/2020 MONDAY
+
+started the day with our morning prayer session
+Introduction to GIT
+
+clones and created a branch
+
+We were grouped and told to come up with ideas.
+
+we came up with different ideas some were rejected and we came up with COA
+a central online application that will help learners see thier APS score and apply to qualifation they qualify for
+
+
+28/01/2020 TUESDAY
+started the day with our morning prayer session
+
+we were assigned task to do BACK-END and front-END
+landing page, registration page,login page and admin page
+
+29/01/2020 Wedneday
+started the day with our morning prayer seession
+
+learning back-end nodejs
+registered for idc34bt 
+
+30/01/2020 thursday
+
+started the day with our morning prayer session
+met with our BAs to discuss how far we are and the requirements we will add
+starting with coding of the back-end
+
+31/01/2020 friday
+started the day with our morning prayer session
+coding and trying to connect the system
+
+3/02/2020 monday
+started the day with our morning prayer session
+
+Monday first evaluation of the system at 14:00
+loadshedding another groups tomorrow
+
+
+4/02/2020 tuesday
+started the day with our morning prayer session
+another evaluation for of the system at 14:00
+we must learn ADOBE xd
+started new language ionic
+
+5/02/2020 wednesday
+ started the day with our morning prayer session
+we were grouped in new groups  for new projects
+our group is doing food-hub for kasi.
+we divided tasks to front-end and back-end
+
+06/02/2020 thursday
+started the day with our morning prayer session
+learning of the ionic, nodejs and angular
+other groups went to the scrum training at building 10
+
+07/02/2020 friday
+started the day with our morning prayer session
+practising to do the back-end of the registration and login page
+research on the kasi food-hub
+
+
+10/02/2020 Monday
+started the day with our morning prayer session
+starting to code my back-end login page and registration page
+pushing the report on Github
+
+
+
+
+
+
+
+
+
+
+
