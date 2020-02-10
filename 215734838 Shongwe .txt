@@ -1,0 +1,49 @@
+27 January 2020
+•	Mr Nyambeni introduced us in how to use github, we started by cloning a file, we make sure that we are not working in master if so we were supposed to create a branch after creating a branch we checkout to the branch that we created.
+•	We started making changes to that file after that we push it back to Mr Nyambeni, by adding to stage, committing and push to origin branch name.
+•	We were group to come up with a project that we can create in a period of one week.
+•	We brainstormed on the system and reached a conclusion.
+•	 We were called to present the system idea in front of the management and it was a success.
+ 
+28 January 2020
+•	We did ToDo list and split ourselves into a group of front end and back end developers.
+•	We were called again in this day by the scrum master to present our tasks to him and he also helped us by simplify the tasks allocation by introducing an easy way to divide ourselves
+•	The duties we as follow LD (front end and back end), AD (front end and back end), LGP (front end and back end), RGP (front end and back end).
+•	Most of this day was spend on researching and testing, using the resources provided to us.
+•	At the end of the day we were supposed to push our work to Mr Nyambeni our manager.
+  
+29 January 2020
+•	First thing first we were supposed to clone the project that we pushed yesterday and start working on it.
+•	The work continue researching and testing the system and we also meet with our BA’s to see whether we are in the same page or what.
+•	We were also called by the scrum master to present our progress for our system in a scale of 50 less or 50 greater.
+•	We curry on with our work and we push to Mr Nyambeni in the end of the day.
+
+30 January 2020
+•	First thing first we were supposed to clone the project that we pushed yesterday and start working on it.
+•	We continue coding the system but we were facing some challenges on how to connect the front end and the back end as it was the last day of coding.
+•	The day ended up without finding the solution.
+•	 At the end of the day we were supposed to push our work to Mr Nyambeni our manager.
+
+31 January 2020
+•	First thing first we were supposed to clone the project that we pushed yesterday and start working on it.
+•	We kept on trying to connect the back and front end.
+•	Mr Nyambeni told us that we were go to present at 11 o’clock but the management wasn’t there and we were supposed to postpone the presentation day to Monday. 
+•	At the end of the day we were supposed to push our work to Mr Nyambeni our manager.
+
+3 February 2020
+•	First thing first we were supposed to clone the project that we pushed yesterday and start working on it.
+•	On this day it was our presentation day
+•	At the end of the day we were supposed to push our work to Mr Nyambeni our manager.
+
+4 February 2020
+•	On this day we were told to look inonic 
+
+5 February 2020
+•	On this day we went to our BA’s lab to be group for the main project.
+
+6 February 2020
+•	On this day we were called to go and attend work shop for scrum  
+
+7 February 2020
+•	On this day we were learning inonic for mobile app.
+•	And it was a half day due to electricity.
