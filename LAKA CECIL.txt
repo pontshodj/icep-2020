@@ -25,7 +25,7 @@ Student Number:216166329
 
    24 January 2020
 
-    we did not attend
+    *we did not attend
    
     27 January 2020
     *first thing in the morning i installed GIT on my local machine.
