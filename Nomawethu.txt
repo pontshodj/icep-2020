@@ -1,0 +1,56 @@
+20/01/20 - 23/01/20
+Induction: We were told what to expect at Icep
+Played games led by Moses to know each other better so that it can be easy to work as a tem
+
+24/01/20
+-Day off
+
+27/01/20
+
+-Learned to clone from Icep 2020 in Github
+-Create a branch
+-created a branch
+-pushed back to git
+
+28/01/20
+
+-assigned task on landing page of COA
+
+29/01/20
+
+-Research on angular,VS Code
+
+30/01/20
+
+-Editing admin page
+
+31/01/20
+
+It was a day I registered for IDC
+
+03/02/20
+
+-Research on JWT and creating a service
+-presented system
+
+04/02/20
+
+-Research on adding a cart 
+
+05/02/20
+
+-Got introduced to my new team for the Icep Website system
+-Researched similar Website,discussed on what to add and modify
+
+06/02/20
+
+-Took a day off
+
+07/02/20
+
+-Given the task of designing front end of Login page
+-Research on how to do the LOgin Page
+
+10/02/20
+
+-Pushed Report
