@@ -33,26 +33,44 @@ on this date,we did the division of labour and i was assigned to be a backend co
  
 29 JANUARY,wednesday
 i started coding the backend for the login page.
-30 JANUARY
+30 JANUARY thursday
 the backend coding was in persistancy and i had to familiarise my mind with the functions
 the  of  database.
 
-31 JANUARY,thursday
+31 JANUARY,friday
 on this day , coding of the backend login page was still in progress.
 
 03 FEBRUARY, monday
 monday,it was the first day of evaluation. 
 
-05 FEBRUARY, tuesday.
+04 FEBRUARY, tuesday.
 on this day, i made a presentation of our system and i was selected to represent the developers .
 
-06 FEBRUARY , wednesday 
+05 FEBRUARY , wednesday 
 
 on this date , i reconved with business analyst at building 10 to formulate and create new teams 
 not only that but to do the planning for the newly proposed system.
 
-07 FEBRUARY ,thurday
+06 FEBRUARY ,thurday
 after the newly proposed system , a research was conducted that is based on the proposed system.
 
-08 FEBRUARY , friday
+07 FEBRUARY , friday
 i persisted with the conduct of the research.
+
+10 FEBRUARY, Monday
+on this date i submitted the updated report and i dd the scrum with my  team.
+
+11 FEBRUARY , Tuesday
+i coded the backend using the CRUD method.
+
+12 FEBRUARY , wednesday
+i met with my team for scrum again again and disscussed the indivial progress in 
+assignment.
+we requested wirframe.
+
+13 FEBRUARY, thursday
+i continued with the CRUD code.
+
+14 FEBRUARY, friday
+i attempted to connect the backend and the front end.
+
