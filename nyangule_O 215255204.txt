@@ -170,6 +170,7 @@ started the day with morning prayer
 working on the delete profile backend
 research on backend searching engine
 research on backend admin panel
+we met with our BAs for scrum session
 
 
 
