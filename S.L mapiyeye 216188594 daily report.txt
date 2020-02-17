@@ -1,0 +1,51 @@
+
+
+ 10 February 2020
+----------------------
+
+-> We had a meeting with our BA's to draft our product backlog for our project GIFTBOX
+   everyone was appointed a task to do, each given a peroid of two weeks to finish the sprint(first sprint as a group
+-> I was given a task of creating backend for searching and a dropbox
+-> We created a structure for our project with repositories
+-> Started gathering information on how to code backend for both searching from the database and how does a dropbox 
+   corresponds with the database
+-> Started with my coding
+-> Pushed my code to git
+
+
+ 11 February 2020
+--------------------
+
+-> I pulled the structure  from git and carried on with searching and coding of my given sprint.
+-> My coding improved due to the information i was gathering and carried coding and my work was almost done.
+-> Gathered videos on the searching so that i can pull, carry on with my code and push again at home.
+-> At the end of the day i pushed the work to git which was almost done.
+
+ 12 February 2020
+--------------------
+
+-> pulled the structure from git and continued with coding.
+-> during the process of my code we had stand up for 30min.
+-> we had a stand up with our BA's and presenting our progress in Trello
+-> i finished my searching and dropbox  part and pushed it to git.
+
+
+ 13 February 2020
+--------------------
+-> pulled the structure from git.
+-> started on researching on other backend codes i think i will in future.
+-> stop and had few changes in my code where by included unnecessary codes.
+-> pushed it again after the changes
+-> started pushing myself on understanding CRUD and few queries.
+-> downloaded some books based on the CRUD i wanted to know.
+
+
+
+ 14 February 2020
+--------------------
+
+-> carried on the coding CRUD.
+-> we had a half day couldnt continue coding
+
+
+
