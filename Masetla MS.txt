@@ -10,9 +10,37 @@ are located at the separete topics found on the Doc.
 
 --------------------------------------------------------------------
 
--Started working with ICEP System team today.
--Started by cloning the Git invited by Mr Nyambeni.
--The clonned git repository was to upload the report on the system that the team ways currently working.
--The team has completed a number of topic on the project that a due.
--I Mr Masetla was assigned the role of frontend developer for the system.
--The objective of today is to build the landing page for the system.
+	-Started working with ICEP System team today.
+	-Started by cloning the Git invited by Mr Nyambeni.
+	-The clonned git repository was to upload the report on the system that the team ways currently working.
+	-The team has completed a number of topic on the project that a due.
+	-I Mr Masetla was assigned the role of frontend developer for the system.
+	-The objective of today is to build the landing page for the system.
+
+17.02.2020
+REPORT
+==============================================================================
+Tuesday 11.02.2020
++Continued Work from the scrum session which included
+	-Design of the Login & Register page forms (Using Adobe XD)
+	-
+
+Wednesday 12.02.2020
+	-daily scrum
+	-Created the project On git
+	-created branches and components to work on.
+	-Created register components.
+	-Started coding the register form and styling
+
+Thursday 13.02.2020
+	-Continued to code the frontend 
+	-Made changes to the register form
+	-linked with online DB
+	
+Friday 14.02.2020
+	-daily scrum
+	-Continued on with the frontend.
+ 
+	
+
+
