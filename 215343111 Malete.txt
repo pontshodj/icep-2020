@@ -59,3 +59,21 @@ Two first teams had a scrum session and got to know scrum in full.
 We were doing a reserach about ionic and how we can use it to better our lives and make the
 process of app creation more productive.
 
+
+10 February
+We had a scrum meeting together with our BAs to draft down the Product log by listing all the system's requirements
+and re-alocate tasks amongst the team.
+
+11 February
+we continued on our first sprint tasks, whereby i was working on the back-end for the reset-forgot password and in the afternoon
+we had a group meeting to discuss our difficulities and share views.
+
+12 february
+implementation for the CRUD for login and register pages continued, so as the one for forgot password....
+
+13 february
+continued with CRUD methodology and got stuck when coming to connect the front-end with the back-end....which is to be researched!.
+
+14 february
+I completed my given task(back-end for forgot-reset password) and moved to help other members of the team to uplift the working spirit.
+I'm also still working on the logic of forgot-reset password.
