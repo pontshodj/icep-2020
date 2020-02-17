@@ -70,3 +70,25 @@
 10/02/20
 
 -Nyambeni requested a report of our work
+-Scrum session with RMS teammates
+-assigned task of student dashboard
+
+11/02/20
+
+-laptop wasn't working so i was moved to a PC which also had issues running ionic
+-Read upon ionic docs
+
+12/02/20
+
+-Met with team for scrum
+-Talked about adding more developers to student dashboard
+-Requested wire frame from BA's
+
+13/02/20
+
+-I was sick, i didn't go to work
+-fixed my laptop
+
+14/02/20
+
+-Started with student dashboard
