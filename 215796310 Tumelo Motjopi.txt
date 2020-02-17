@@ -60,3 +60,25 @@ started with the following:
 -Solving certain error which i got when installing Ionic
 -Started with ojur project
 
+10 february 2020
+--------------------
+
+-we worked on sprint and identifying what it is need in our project
+
+11 february 2020
+-------------------
+- started with the prototype of the application 
+
+12 February 2020
+-------------------
+- from 8 to 12pm in the morning , ive worked together with our business analyst with prototyping.
+- After lunch I continued with the login and registration form.
+
+13 February 2020
+--------------------
+- was busy with the connection of backend and frobt end.
+
+14 February 2020
+-------------------
+- started with the admin dashboard with my collueges
+
