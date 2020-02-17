@@ -23,23 +23,16 @@ week 2
 
 27 January - (Monday)
 
-Introduction to GIT/GitHub
-
-clone and created a branch
-
-We were grouped and we come up with ideas for a system.
-
-we came up with different ideas but the system that was chosen is COA
-a central online application that will help learners see thier APS score and apply to qualifation they qualify for
-
-
+I was introduced to git,github and taught how to use git,how to clone, how to push,
+and i cloned a project from Mr Nyambeni to create a file 
+and folder to write our names in. 
 
 28 January - (Tuesday)
 
 I was assigned a task to create a registration page from the backend.
 
 29 January - (Wednesday)
-I started my research on node js and started wacthing tutorials.
+I did a serch on the project we chose to do.
 
 30 January - (Thursday)
 
@@ -47,21 +40,11 @@ I registered for IDC30BT
 
 31 January - (Friday)
 
-coding and trying to connect the system
-
 week 3
 
 03 February - (Monday)
 
-first evaluation of the system at 14:00
-another evaluation for of the system at 14:00 for the second groupds
-started new language ionic
-
 04 February - (Tuesday)
-
-we were grouped in new groups  for new projects
-our group is doing RMS .
-we divided tasks to front-end and back-end
 
 05 February - (Wednesday)
 We presentated a group system which we started on 27 January 2020. 
@@ -72,14 +55,29 @@ Attended Scrum session from 8am to 4 pm
 
 07 February - (Friday) 
 
-practising to do the back-end of the Admin page
-research on the RMS
+I started the research on my group project which is Resident Management System which students and resident owners 
+can register and login to book or insert their residences into the system.
 
 10 February - (Monday)
 
-starting to code my back-end Admin page
-pushing the report on Github
+we begin the daily scrum and i was assigned to do the back-end part for the admin page.
 
+11 February - (Tuesday)
 
+My group decided to change the task i was assigned to, and assigned me to code the back-end
+part for the forgot password for students password validation. I begin by researching how to validate the 
+password and how to create token for email in Nodejs. 
+
+12 February - (Wednesday)
+I begin by coding the forgot password back-end for students.
+
+13 February - (Thursday)
+
+I begin by coding the forgot password back-end for the landlords.
+ 
+14 February - (Friday)
+
+i edited the coding of the forgot password back-end for the landlords.
+ 
 
 
