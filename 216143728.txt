@@ -53,3 +53,23 @@ MY REPORT
 ?	We learnt about scrum flows,the role of scrum master and how scrum is important in creating new product
 07 February 2020
 ?	researched more about our project
+10 February 2020
+
+we met as a group and do the product backlog and discussed all the things our system will be doing and what its needs and we assigned tasks.
+
+11 February 2020
+
+i was assigned to do add to cart whereby i researched more about it and watched videos on youtube
+
+12 February 2020
+
+i started coding my page and we did the daily stand up where we discussed the progress of our tasks
+
+13 February 2020
+
+i continued coding my page 
+
+14 February 2020
+
+i finished the page and i was learning on how to connect to ada pages
+
