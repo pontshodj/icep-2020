@@ -134,6 +134,43 @@ pushing the report on Github
 
 
 
+11/02/2020 Tuesday
+
+started my day with our morning prayer session
+
+i was carrying on with the regsitration and the login back-end
+finished the registration for resturant
+created new repo for backend programmers
+
+12/02/2020 wednesday
+
+started the day with the morning prayer session
+finished registration for customers
+finshed login for the restuarant
+still testing the login for customer
+did the database for our system
+met with our BAs for the scrum session
+
+
+13/02/2020 thursday
+
+started the day with the morning prayer session
+worked with the team with member with the update for the users
+stated research with the multer for adding pictures
+
+14/02/2020 Friday
+
+started the day with the morning prayer session
+worked on delete the page which must not completely delete the user profile on the database
+still working on the delete backend
+
+
+17/02/2020 monday
+started the day with morning prayer 
+working on the delete profile backend
+research on backend searching engine
+research on backend admin panel
+
 
 
 
