@@ -66,5 +66,22 @@ Student Number:215520960
       07 Feb 2020
       *I installed IONIC on my machine
       *I downloaded the tutorials for IONIC
-    
+       
+       10 Feb 2020
+	*We went to building 10 to meet with our Business analysis and our leader to discuss the requirement of the system and also 
+         select the things that we want them to be full functioning on our first presantation which will be on the 21 Feb 2020.
+
+      11 Feb 2020
+       *Our business analysis come to our office to discuss about the ERD and correct the mistakes that we found on the ERD.
+       *On the second seasion, i started to do the user interface of the login page and signup page.
+
+      12 Feb 2020
+       *We attended the daily stand up to descuss the progress of our system.
+       *I was busy doing the validation of the login page and i was strungling 
+
+      13 Feb 2020
+       * I continued with validation 
+
+      14 Feb 2020
+       *I was still doing the validation .
      
