@@ -1,0 +1,22 @@
+Log Book
+******Febraury***********
+
+10 Feb
+started at ICEP. and joined a group working on Room Management System, and i was assigned to backend programing.
+i researched about nodejs and i learned nodejs comands and npm commands and also sysntax of javascript. 
+
+11 Feb
+
+my team and i attended a scrum session, i was assigned a task to develop a code to capture admin registration infor
+and stored it into a database, then i created the database on this day, for test cases.
+
+12 Feb
+
+i learned on how to connect database with middleware and managed to connect the middleware and my testing database.
+then we attended a reporting session to check on the progress of the system.
+
+13 Feb
+
+i started coding the code for  collecting information of the admin to the DB and deleting it from database.
+
+
