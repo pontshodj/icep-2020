@@ -30,4 +30,12 @@ we were further brushing up our skills on front end development concepts
 7 February
 We were doing a reserach about ionic and how we can use it to better our lives and make the process of app creation shorter and more productive.
 10 February
-we are working on the frontend side of things regarding our system.
+we are working on the frontend side of things regarding our system. we also met with our business analysts and our leadership kabelo and matshidiso who guided us regarding our system.
+11 February
+we continued to work on our assigned sprint tasks that were identified as high priority for the first presentation thats coming up in 2 weeks time. I was working on the front end regarding the admin panel. There were many difficulties faced and also lessons learnt from those situations. I am now getting more used to how I tackle errors etc. we also had a group daily scrum toward the end of the day with our business analysts to make sure we are all on the right track.
+12 February
+I conducted further research on what exactly the admin side of the vendors must contain. The information it must display and was looking for some samples on the internet to give me an idea. I also helped my other group members in areas they found difficulty inorder to enforce the team spirit which we share. The eskom power cut affected our overall work output as we wait for electricity to return.
+13 February
+All the methods I try so far seem to elude the final way that I aim to achieve. Admin panel is a good challenge for me and I am confident on conquering my obstacles.
+14 February
+We had some bits of our system up and running, they are missing the pieces being done by other members. We did some overtime to cover up for lost time and also I managed to get an admin panel up and running. It needs further fine tuning and a platform for me to build on from there.
