@@ -47,3 +47,34 @@
 7 February 2020
 •	On this day we were learning inonic for mobile app.
 •	And it was a half day due to electricity.
+
+10 Feb. 20
+•	On this day we meet with our BA’s to draft product backlog for our current project (GiftBox).
+•	It was a success and we spilt the task in to sprint one.
+•	The tasks that was assign to me it was back end in registration and view. 
+•	And we also created repositories.
+•	With a structure for the back end.
+11 Feb. 20
+•	I pulled the structure that was pushed yesterday and started coding.
+•	Started coding a registration and it was almost done.
+•	I pushed the in code to git in the end of day.
+
+12 Feb. 20
+•	I pulled the structure that was pushed yesterday and started coding.
+•	Started coding a registration and it was done.
+•	We had a daily stand up with our BA’s presenting our progress in trello. 
+•	I pushed the in code to git in the end of day.
+
+13 Feb. 20
+
+•	We continue coding and there was some changes that we needed in my code and I made them I was done with the code. 
+•	Updated trello.
+•	We meet with our BA’s to discuss the progress of the system and it was a success.
+•	We connected the front end with the back end and it was a success
+
+14 Feb. 20
+
+•	We had a half day 
+•	I was coding with Bee there add to cart.
+
+
