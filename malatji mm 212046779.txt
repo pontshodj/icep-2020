@@ -1,0 +1,78 @@
+			DAILY REPORT
+212046779
+malatji mm
+
+20 January 2020 building 10-g44
+
+INDUCTION DAY
+
+ we were introduced to the ICEP TEAM memebers.
+
+21-january-2020 
+
+-introduction how to apply scrum 
+
+22-january-2020 
+
+Mr Nyambeni(developers leader) introduced to new languages angular.nodejs
+
+23-january-2020
+
+The adminstrator gave us employment forms to fill them.
+
+24-january-2020
+ day off
+
+27-january-2020
+leaders grouped  us and had to come up with an idea of the type of system we want to develope for a period of a week. 
+
+28-januaery-2020
+I had a meeting with my team and we assigned tasks to each member. I was assigned to design a admin backend for our system lost and found application.
+
+29-january-2020
+I managed to create a database for admin and table .
+
+30-january-2020
+we were putting the whole project together by linking all the pages.
+
+31-january-2020
+we managed to link all the pages but  we had problems with connection strings.
+
+3-february-2020
+We had our first presentation.
+
+4-february-2020 
+i was presenting our project together with my team memebers
+
+5-february-2020
+
+I was grouped with my new team and we were given a new system, basically to revamp the ICEP website and add a new functional 
+
+6-february-2020
+
+Teams were called for scrum sessions
+i was learning how to use angular 
+
+7-february-2020
+
+I was watching tutorials for connecting admin page to the database
+
+10-february-2020
+
+-We had our daily stand scrum to discuss the way forward
+
+11-february-2020
+
+-we worked on the system  and watching tutorials to assit.
+
+12-february-2020
+
+-coding the front end of the application page of our admin page  ICEP website
+
+13-february-2020
+
+-coding the front end of the application page of our ICEP website  
+
+14-february-2020
+
+-worked together with my team trying to  create connection stringsto the front and backend
