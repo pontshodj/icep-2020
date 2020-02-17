@@ -1,79 +1,29 @@
-MAHLORI MANGANYI REPORT 2020
+10 February report
 
-20 January 2020
+Starting our first sprint Developers and BAs are planning product
+backlog of the system. What exactly is needed on the system.
+Our system is giftbox application. So we looking what exactly we going
+to have for the entire system
 
-first day of the work we are being introduced what ICEP all about
-and what we should expect from the ICEP.
-Things we be doing the whole semester
+11 February report
 
-Website
-Mobile application
-Technical support
-Git and Github
+Researching about the system and also updating the Trello,
+allocating work on the Trello
 
-Languages with be using to accomplish the whole prosess
+12 February
 
-Angularjs
-Nodejs
-Ionic
+Continuation of implementation and daily meetings..
+We having a daily stand up with our scrum master.
+He wants to know how far are we with our work
 
-We should come out of ICEP knowing all of the things mentioned
-above
+13 February
 
-21-23 January
+I'm done with the landing page but just to find out that some of my
+colors are not the same with the one BA used.. And another
+challenge is my slides how is not behaving the way I want.. So I had
+to change some of the stuff to go along with everyone.
 
-Induction and playing games
+14 February report
 
-24 January
-
-I Didnt come to work.
-All of us we didn't come except the staff members
-
-27 January reports
-
-We learned about github
-We cloned the repository from the github into our local machine
-After we config our global user name and emails
-The challenge here was push it back
-It was telling us about the unable to access the info simply because
-we didn't have a repository that we need to send it to.
-Later we were ask to come up with the system..
-Then we managed to gather our thoughts and we came up with fruit
-and veg system.. We scrump it down, we managed to see what is needed on the
-system..
-
-28 January 2020 report
-
-Based on our system we assigned ourselves with work and learning
-angularjs and nodejs..As programmers the are people who are working with landing page,some are working with admin page, some are working on login page..
-I am sign to do the Register page..
-Challenges that I have now is to learn angularjs and nodejs.
-
-03 February
-
-Presentation day
-We manage to run frontend and backend but the problem was to connect the api of both backend and frontend.. We failed to connect the two.. But we present our system..
-And the other groups managed to help us how we can fix the problem we have
-
-04 February
-
-Today we're starting a new chapter of learning mobile app we
-learning ironic
-
-05 February
-
-We are allocated to our new groups, where our group we are assigned
-to do gitfbox app.
-Also we talked with all our BA how the system should look like
-
-O6 February
-
-Today we are learning about scrum and to understand how it works
-The lesson was all about scrum and agile methods.. How we can use
-agile on our work place.
-
-O7 February
-
-Researching about the gift box system
-And we are waiting for the full description of the system how the
-system suppose to look like from the client.
+Starting over my landing page and asking some pictures from one of
+the BA members
