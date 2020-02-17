@@ -80,3 +80,30 @@
 
 -Nyambeni requested a report of our work
 -Attended a SCRUM session where we were taught more on the concept by Kabelo and Matshidiso
+
+11/02/20
+
+-Discussed with the team on the interface and the APIs we going to need for the system
+-Got busy with the register API
+
+12/02/20
+
+-Added new APIs to the code and tested with postman
+-Met with the scrum master and discussed on the process of the project
+
+13/02/20
+
+-Got busy fixing the errors and syntax of the code
+-Saved the work and asked the F-E what have they done so far
+
+14/02/20
+
+-Researced on the login verification
+
+17/02/20
+
+-
+-
+
+
+
