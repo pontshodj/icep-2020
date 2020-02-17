@@ -1,0 +1,40 @@
+20-01.2020
+First day we attended at ICEP, we were introduced to the leaders of ICEP.
+21-01-2020 
+-learning about scrum and the tools we will use
+22-01-2020 
+We were introduced to new languages angular.nodejs and there were speakersb to discuss them further
+23-01-2020
+we signed forms handed to us by the admnistrator
+24-01-2020
+- We had the day off
+27-02-2020
+We were grouped and had to come up with an idea of the type of system 
+28-01-2020
+we were learning angular and i coded the backend of the login form for my team.
+29-01-2020
+I validated the login page and merged it with the rest of the code
+30-01-2020
+We were doing the routing for the pages and merging them together in order to have a complete working front-end application, the back-end developers were also doing the same for the entire back-end, we also used postman to test the integrated .
+31-01-2020
+We combined the front and back-end in order to have a fully functional application, we also further tested the integrated application  for bugs and fixed whatever bugs we had in order to prepare for the presentation that would start the following week.
+3-02-2020
+We had our first presentation were we presented to our fellow leaders and colleages.
+4-02-2020 
+We had a second presentation from other groups which showed that all the groups were determined to work.
+5-02-2020
+We got placed into  new groups for our next projects 
+6-02-2020
+Practised coding. 
+7-02-2020
+I was watching tutorials for uploading files for an application form
+10-02-2020
+-We had our daily stand scrum to discuss the way forward
+11-02-2020
+-we worked on the system 
+12-02-2020
+-coding the backend of the application page of our ICEP website
+13-02-2020
+-coding the backend of the application page of our ICEP website / uploading files code 
+14-02-2020
+-worked together with my team trying to connect the front and backend
