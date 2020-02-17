@@ -1,0 +1,29 @@
+10 February report
+
+Starting our first sprint Developers and BAs are planning product
+backlog of the system. What exactly is needed on the system.
+Our system is giftbox application. So we looking what exactly we going
+to have for the entire system
+
+11 February report
+
+Researching about the system and also updating the Trello,
+allocating work on the Trello
+
+12 February
+
+Continuation of implementation and daily meetings..
+We having a daily stand up with our scrum master.
+He wants to know how far are we with our work
+
+13 February
+
+I'm done with the landing page but just to find out that some of my
+colors are not the same with the one BA used.. And another
+challenge is my slides how is not behaving the way I want.. So I had
+to change some of the stuff to go along with everyone.
+
+14 February report
+
+Starting over my landing page and asking some pictures from one of
+the BA members
