@@ -25,7 +25,7 @@ Student Number:216166329
 
    24 January 2020
 
-    *we did not attend
+    we did not attend
    
     27 January 2020
     *first thing in the morning i installed GIT on my local machine.
@@ -69,5 +69,25 @@ Student Number:216166329
       07 Feb 2020
       *I installed IONIC on my machine
       *I started to research about IONIC
+
+
+      
+      10 feb 2020
+      * we attended daily scrum to discuss the system
+
     
+
+
+     11 Feb 2020
+
+     * started to create  student registration page  for RMS system using angular and ionic
+     12 Feb 2020
+     * i implemented  validation for registration page 
+
+     13 Feb 2020
+     * i added some functionality to the buttons on student registration page
+
+     14 Feb 2020
+
+    *we try to  merge all the front end we created into a single application, and also implemented routing to navigate within different pages.
      
